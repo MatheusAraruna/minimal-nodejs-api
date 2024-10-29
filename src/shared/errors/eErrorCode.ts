@@ -1,0 +1,28 @@
+enum EErrorCode {
+  DEF001,
+  PIN001,
+  PIN002,
+  TKN001,
+  TKN002,
+  TKN003,
+  TKN004,
+  TKN005,
+  TKN006,
+  TKN007,
+  TKN008,
+  TKN009,
+  TKN010,
+  TKN011,
+  TKN012,
+  PED001,
+  PED002,
+  PED003,
+  PED004,
+  PED005,
+  PED006,
+  PED007,
+  PED008,
+  PED009
+}
+
+export default EErrorCode
